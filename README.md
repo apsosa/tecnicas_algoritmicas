@@ -18,7 +18,7 @@ Además se debe pasar la instancia por entrada estándar. Por ejemplo, para ejec
 La salida del programa es doble. Por la salida estándar se devuelve lo pedido por el enunciado. Por la STDERR se devuelve el tiempo de ejecución del algoritmo.
 
 Experimentación:
-La generación de instancias y corrida de experimentos de manera secuencia está programada en Python utilizando Jupyter Lab (https://jupyter.org/). Para ver los notebooks se debe instalar Jupyter Labs siguiendo las instrucciones en su web. Se recomienda seguir los pasos de instalación utilizando pip3.
+La generación de instancias y corrida de experimentos de manera secuencia está programada en Python utilizando [Jupyter Notebook](https://jupyter.org/). Para ver los notebooks se debe instalar Jupyter Labs siguiendo las instrucciones en su web. Se recomienda seguir los pasos de instalación utilizando pip3.
 
 Una vez instalado Jupyter Lab, abrir una consola en la carpeta python y correr el comando:
 	jupyter lab
