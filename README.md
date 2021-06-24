@@ -15,6 +15,7 @@ Al ejecutarlo se le debe pasar un parámetro que indique cuál algoritmo se dese
 
 Además se debe pasar la instancia por entrada estándar. Por ejemplo, para ejecutar backtracking solamente con podas por factibilidad en una instancia INST1.TXT se debe correr el siguiente comando:
 >$ cat INST1.txt | ./jamboT BT-F
+
 La salida del programa es doble. Por la salida estándar se devuelve lo pedido por el enunciado. Por la STDERR se devuelve el tiempo de ejecución del algoritmo.
 
 Experimentación:
