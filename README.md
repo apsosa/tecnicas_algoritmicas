@@ -7,12 +7,12 @@ Para compilarlo se debe ejecutar el comando
 en la consola.
 
 Al ejecutarlo se le debe pasar un parámetro que indique cuál algoritmo se desea utilizar entre las siguientes opciones:
-	- FB: Fuerza bruta
-	- BT: Backtracking con podas por factibilidad y optimalidad.
-	- BT-F: Backtracking solamente con poda por factibilidad.
-	- BT-O: Backtracking solamente con poda por optimalidad.
-	- DP: Programación dinámica.
-
+- FB: Fuerza bruta
+- BT: Backtracking con podas por factibilidad y optimalidad.
+- BT-F: Backtracking solamente con poda por factibilidad.
+- BT-O: Backtracking solamente con poda por optimalidad.
+- DP: Programación dinámica.
+- 
 Además se debe pasar la instancia por entrada estándar. Por ejemplo, para ejecutar backtracking solamente con podas por factibilidad en una instancia INST1.TXT se debe correr el siguiente comando:
 	cat INST1.txt | ./jamboT BT-F
 La salida del programa es doble. Por la salida estándar se devuelve lo pedido por el enunciado. Por la STDERR se devuelve el tiempo de ejecución del algoritmo.
