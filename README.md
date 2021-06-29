@@ -4,6 +4,7 @@ En este trabajo se resolvio un problema de optmizacion combinatoria utilizando d
 El código que resuelve el problema del enunciado está en el archivo tp1.cpp.
 Para compilarlo se debe ejecutar el comando:
 >$ make
+
 en la consola.
 
 Al ejecutarlo se le debe pasar un parámetro que indique cuál algoritmo se desea utilizar entre las siguientes opciones:
